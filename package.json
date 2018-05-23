@@ -24,6 +24,7 @@
     "style-loader": "^0.13.2"
   },
   "devDependencies": {
+    "redux-multi": "^0.1.12",
     "redux-promise": "^0.5.3",
     "webpack": "^1.15.0",
     "webpack-dev-server": "^1.16.5"
